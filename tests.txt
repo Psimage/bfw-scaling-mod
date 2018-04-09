@@ -1,0 +1,10 @@
+0 test_explicit_success
+1 test_explicit_fail
+0 test_unit_has_2x_more_hp
+0 test_unit_has_2x_more_num_attacks
+0 test_unit_hp_scaled_with_traits
+0 test_villages_heal_2x_more_hp
+0 test_unit_abilities_scaled
+0 test_unit_scaled_on_advancement
+0 test_feeding_ability_on_advancement
+0 test_rest_heal_and_poison_amount

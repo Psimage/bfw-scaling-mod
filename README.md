@@ -1,0 +1,2 @@
+# About
+**Scaling Mod** is an add-on for Battle for Wesnoth. It doubles unit hitpoints and number of attacks per attack type (everything that effects hp/dmg was also scaled, abilities like healing and traits). The goal of the mod is to reduce the effect of rng on the outcome of battles.
