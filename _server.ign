@@ -1,0 +1,6 @@
+scenarios/tests/
+scenarios/playground.cfg
+scenarios/playground.editor.cfg
+*.ps1
+tests.txt
+dummy_unit.cfg
